@@ -1,0 +1,14 @@
+{
+
+"name":"Rahul",
+"job" : "leader",
+	"technology": [
+ 			"java",
+			"Selenium",
+			"API"],
+"designation": "leader",
+"address": 
+{ "city" : "New Delhi",
+  "country" : "India"
+}
+}

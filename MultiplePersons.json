@@ -1,0 +1,42 @@
+[
+
+{
+	"email":"rahul@gmail.com",
+	"firstName":"Rahul",
+	"lastName":"jha",
+	"age": 23,
+
+"address":
+{
+"state" : "UP",
+"country" : "India",
+	"abc":
+	{
+	  "district" : "East Delhi",
+ 	  "pincode": 12434
+	}
+}
+
+
+},
+
+{
+	"email":"trainer@way2automation.com",
+	"firstName":"Raman",
+	"lastName":"Aurora",
+	"age": 30,
+
+"address":
+{
+"state" : "Haryana",
+"country" : "India",
+	"abc":
+	{
+	  "district" : "Noida",
+ 	  "pincode": 593343
+	}
+}
+
+
+}
+]

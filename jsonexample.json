@@ -1,0 +1,16 @@
+{
+	"email" : "bhargavipsk@gmail.com",
+	"firstName": "Bhargavi",
+	"lastName": "Lanka",
+	"age" : 42,
+	"address":
+	{
+		"state":"karnataka",
+		"country":"India",
+		"abc":
+		{
+			"district":"Bangalore",
+			"pincode":560049
+		}
+	}
+}
